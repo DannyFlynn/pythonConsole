@@ -1,0 +1,22 @@
+bank_details = [
+    {"name": "YMBNW", "pin": 5811, "balance": 4147},
+    {"name": "JCLAI", "pin": 1391, "balance": 1759},
+    {"name": "HFSAR", "pin": 2850, "balance": 3418},
+    {"name": "AVFKM", "pin": 9938, "balance": 7846},
+    {"name": "GMNRE", "pin": 5926, "balance": 4714},
+    {"name": "RKXSN", "pin": 2769, "balance": 6303},
+    {"name": "MDLPR", "pin": 5764, "balance": 2698},
+    {"name": "BOUQA", "pin": 8108, "balance": 3846},
+    {"name": "EJKZT", "pin": 4742, "balance": 1957},
+    {"name": "FVCGA", "pin": 2858, "balance": 5837},
+    {"name": "WLTNY", "pin": 7567, "balance": 8221},
+    {"name": "ZXPMR", "pin": 8386, "balance": 3483},
+    {"name": "YJWZB", "pin": 2410, "balance": 5162},
+    {"name": "QGIPF", "pin": 1504, "balance": 9437},
+    {"name": "NHVXD", "pin": 6679, "balance": 6972},
+    {"name": "KUSOT", "pin": 1106, "balance": 6398},
+    {"name": "LRYHB", "pin": 3833, "balance": 4259},
+    {"name": "DXJOW", "pin": 7645, "balance": 2881},
+    {"name": "ICQPF", "pin": 2031, "balance": 9832},
+    {"name": "ZFYHT", "pin": 8868, "balance": 1259}
+]
